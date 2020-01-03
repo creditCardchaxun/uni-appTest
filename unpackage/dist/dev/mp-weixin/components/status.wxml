@@ -1,0 +1,1 @@
+<view class="status" bind:__l="__l"></view>
